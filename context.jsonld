@@ -1,0 +1,10 @@
+{
+  "@context": {
+      "stationType": "https://uri.throttle-project.eu/properties/stationType",
+      "collectionStatus": "https://uri.throttle-project.eu/properties/collectionStatus",
+      "stationState": "https://uri.throttle-project.eu/properties/stationState",
+      "dataUpdatedTime": "https://uri.throttle-project.eu/properties/dataUpdatedTime",
+      "sensors": "https://uri.throttle-project.eu/relationships/sensors"
+  }
+}
+
