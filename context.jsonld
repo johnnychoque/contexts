@@ -4,7 +4,15 @@
       "collectionStatus": "https://uri.throttle-project.eu/properties/collectionStatus",
       "stationState": "https://uri.throttle-project.eu/properties/stationState",
       "dataUpdatedTime": "https://uri.throttle-project.eu/properties/dataUpdatedTime",
-      "sensors": "https://uri.throttle-project.eu/relationships/sensors"
+      "sensors": "https://uri.throttle-project.eu/relationships/sensors",
+
+      "direction": "https://uri.throttle-project.eu/properties/direction",
+      "description": "https://uri.throttle-project.eu/properties/description",
+
+      "tmsStation": "https://uri.throttle-project.eu/relationships/tmsStation",
+      "timeWindowStart": "https://uri.throttle-project.eu/properties/timeWindowStart",
+      "timeWindowEnd": "https://uri.throttle-project.eu/properties/timeWindowEnd",
+      "measuredTime": "https://uri.throttle-project.eu/properties/measuredTime"
   }
 }
 
